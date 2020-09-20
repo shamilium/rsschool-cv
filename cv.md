@@ -10,7 +10,7 @@ I want to improve my skills in web development.
 ### Skills
 React, TypeScript, JS, HTML, CSS, C#, .Net...
 
-## Code example
+### Code example
 ```typescript
 /**
  * Преобразовывает число в формат с плавающей точкой для отображения финансовых показателей.
