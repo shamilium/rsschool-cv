@@ -5,7 +5,7 @@
 - __Email__: shtadtaev@gmail.com
 
 ### Summary
-I want to improve my skills in web development.
+Father of 5 children. Former full-stack developer. I want to improve my skills in web development.
 
 ### Skills
 React, TypeScript, JS, HTML, CSS, C#, .Net...
@@ -32,4 +32,4 @@ export const financial = (
 Moscow Power Engineering Institute
 
 ### English
-B2
+B2 probably
